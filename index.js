@@ -17,3 +17,5 @@ let abc = {
     },
 };
 console.log(typeof abc);
+console.error("Invalid User");
+console.warn("4 Attempts more..!");

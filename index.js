@@ -19,3 +19,7 @@ let abc = {
 console.log(typeof abc);
 console.error("Invalid User");
 console.warn("4 Attempts more..!");
+console.clear();
+var a =10;
+var a = 100;
+console.log(a);
